@@ -3,10 +3,8 @@
     <h3>Frontend Developer from Moscow</h3>
 </div>
 
-<div align="center">   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nkaltaeva&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nkaltaeva&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nkaltaeva&theme=default)
+<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nkaltaeva&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nkaltaeva&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nkaltaeva&theme=default)
 </div>
 
 
