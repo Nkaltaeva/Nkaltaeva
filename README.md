@@ -8,9 +8,7 @@
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nkaltaeva&theme=zenburn)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nkaltaeva&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nkaltaeva&theme=zenburn) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nkaltaeva&theme=zenburn)
 
 
 
