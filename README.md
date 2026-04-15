@@ -1,3 +1,9 @@
+    <style>
+      body {
+        background-color: #3f3f3f;
+        color: white;
+      }
+    </style>
 <div id="header" align="center">
     <h1>Hi, I'm  Natalia </h1>
     <h3>Web developerr from Moscow</h3>
