@@ -1,4 +1,5 @@
 <div id="header" align="center">
+    ![Alt Text](https://github.com/Nkaltaeva/html_maroon/blob/main/img/banner_gif.gif)
     <h1>Hi, I'm  Natalia </h1>
     <h3>Web developerr from Moscow</h3>
 </div>
